@@ -26,4 +26,4 @@ Happy coding!
 
 <br>
 
-[Get it's Backend here](https://github.com/mp3mba/employeeAPIBackEnd)
+[Get it's Frontend here](https://github.com/mp3mba/EmployeeAPIFrontEnd)
